@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1e7b6a4ffa3dfee812102c2eb04a891",
+    "revision": "147e02e7157a467fe011d69b61dfeb1c",
     "url": "/ArchidaxDeploy/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ArchidaxDeploy/static/js/2.e000470f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1092ebf1f35c57ec1d34",
-    "url": "/ArchidaxDeploy/static/js/main.2bd59d56.chunk.js"
+    "revision": "0dacd2423bace7858da2",
+    "url": "/ArchidaxDeploy/static/js/main.e3d977ff.chunk.js"
   },
   {
     "revision": "b16ccf93c869a0b6c824",

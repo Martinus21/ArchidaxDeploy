@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ArchidaxDeploy/static/js/main.2bd59d56.chunk.js",
-    "main.js.map": "/ArchidaxDeploy/static/js/main.2bd59d56.chunk.js.map",
+    "main.js": "/ArchidaxDeploy/static/js/main.e3d977ff.chunk.js",
+    "main.js.map": "/ArchidaxDeploy/static/js/main.e3d977ff.chunk.js.map",
     "runtime-main.js": "/ArchidaxDeploy/static/js/runtime-main.b77a2745.js",
     "runtime-main.js.map": "/ArchidaxDeploy/static/js/runtime-main.b77a2745.js.map",
     "static/js/2.e000470f.chunk.js": "/ArchidaxDeploy/static/js/2.e000470f.chunk.js",
     "static/js/2.e000470f.chunk.js.map": "/ArchidaxDeploy/static/js/2.e000470f.chunk.js.map",
     "index.html": "/ArchidaxDeploy/index.html",
-    "precache-manifest.f5bcf0d5d9e36a1f46b9a4882690a933.js": "/ArchidaxDeploy/precache-manifest.f5bcf0d5d9e36a1f46b9a4882690a933.js",
+    "precache-manifest.742eaac77cc435fb05405493037a70e8.js": "/ArchidaxDeploy/precache-manifest.742eaac77cc435fb05405493037a70e8.js",
     "service-worker.js": "/ArchidaxDeploy/service-worker.js",
     "static/js/2.e000470f.chunk.js.LICENSE.txt": "/ArchidaxDeploy/static/js/2.e000470f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b77a2745.js",
     "static/js/2.e000470f.chunk.js",
-    "static/js/main.2bd59d56.chunk.js"
+    "static/js/main.e3d977ff.chunk.js"
   ]
 }

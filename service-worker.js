@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ArchidaxDeploy/precache-manifest.f5bcf0d5d9e36a1f46b9a4882690a933.js"
+  "/ArchidaxDeploy/precache-manifest.742eaac77cc435fb05405493037a70e8.js"
 );
 
 self.addEventListener('message', (event) => {
